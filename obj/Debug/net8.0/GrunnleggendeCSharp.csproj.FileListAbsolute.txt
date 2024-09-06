@@ -1,0 +1,14 @@
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\obj\Debug\net8.0\GrunnleggendeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\obj\Debug\net8.0\GrunnleggendeCSharp.AssemblyInfoInputs.cache
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\obj\Debug\net8.0\GrunnleggendeCSharp.AssemblyInfo.cs
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\obj\Debug\net8.0\GrunnleggendeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\bin\Debug\net8.0\GrunnleggendeCSharp.exe
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\bin\Debug\net8.0\GrunnleggendeCSharp.deps.json
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\bin\Debug\net8.0\GrunnleggendeCSharp.runtimeconfig.json
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\bin\Debug\net8.0\GrunnleggendeCSharp.dll
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\bin\Debug\net8.0\GrunnleggendeCSharp.pdb
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\obj\Debug\net8.0\GrunnleggendeCSharp.dll
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\obj\Debug\net8.0\refint\GrunnleggendeCSharp.dll
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\obj\Debug\net8.0\GrunnleggendeCSharp.pdb
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\obj\Debug\net8.0\GrunnleggendeCSharp.genruntimeconfig.cache
+C:\Users\olli9\VSC\kodehode\GrunnleggendeCSharp\obj\Debug\net8.0\ref\GrunnleggendeCSharp.dll
